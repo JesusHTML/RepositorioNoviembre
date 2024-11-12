@@ -1,1 +1,8 @@
 El fichero que voy a subir
+
+
+Aperitivo: algo
+
+comida: algo
+
+postre: algo 
