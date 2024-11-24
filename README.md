@@ -10,3 +10,5 @@ function saludar(nombre) {
 }
 
 console.log(saludar('Mundo'));
+
+# Ahora la segunda version
